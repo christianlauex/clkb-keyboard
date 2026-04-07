@@ -1,18 +1,18 @@
 # CLS (Compact Layer System) 40% Keyboard
 
-### A keyboard for typing *with* your thoughts.
+### A system for anyone to type *with* their thoughts.
 
 ![CLS Hybrid](assets/main.jpg)
 
 ## Introduction
 
-Typing is often a simple act of turning the thoughts of your mind, directly into words or actions on a screen.
+Typing is easy. Using the keyboard to turn the thoughts of your mind, directly into words or actions on a screen.
 
-But once in while, you may find typing isn't as simple on a keyboard. Keys can be mistyped, out of reach, or even forgotten and need finding. And suddenly, instead of typing with true intentions, you end up with small delays and disruptions to your thoughts.
+But once in while, it isn't. Keys can be mistyped, out of reach, or even forgotten and need finding. And suddenly, instead of typing with your true intentions, you're met with small delays and interruptions.
 
-What if you could type *with* your thoughts instead? What if the correct key always appeared at your fingertips exactly when you've thought of it?
+If only you could type *with* your thoughts. If only the correct keys always appeared at your fingertips exactly when you thought of them.
 
-The CLS (Compact Layer System) keyboard is my attempt at such a solution. Instead of bringing your fingers to the keys, it brings the keys to your fingers, so you always have them right when you need them. It uses a compact and efficient 40% layout with layers, but still keeps typing familiar and intuitive. A keyboard system designed for anyone to type with their thoughts.
+The CLS (Compact Layer System) keyboard is my attempt at such a solution. Instead of bringing your fingers to the keys, it brings the keys to your fingers, so you always have them exactly when you need them. Carefully designed to feel as simple as a standard keyboard, but with all the benefits of a 40% keyboard. A system for anyone to type with the flow of their thoughts!
 
 <!-- A keyboard is a tool for connection. It connects the thoughts of the mind with the actions of typing, for both to flow perfectly together.
 
@@ -21,7 +21,7 @@ Yet, the standard keyboard is designed for disconnection. Its layout forces your
 The CLS (Compact Layer System) is my attempt to redesign it for reconnection. Eliminating the search and reach, by now bringing the keys to your fingers exactly when you need them.  it still preserving the familiar typing feel. With the CLS, the keys are brought to your fingers, not the other way around. A keyboard designed for anyone to type with the flow of their thoughts. -->
 
 > [!IMPORTANT]
-> The CLS is an open-source project, all files will be released after launch. But if you're interested to purchase one now, join the **[Interest Check (Batch 0)](#support)**!
+> The CLS is an open-source project, all files will be released after launch. But if you're interested to purchase one now, join the **[Initial Interest Check](#support)**!
 
 ## Concept
 
@@ -56,7 +56,7 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
                     <img src="assets/touchtype.png">
                 </p>
                 <p align=right>
-                    Exactly 8 columns for the 8 fingers. You'll never need to search for a key. Your fingers know exactly where to touch-type using muscle-memory.
+                    Exactly 8 columns for your 8 fingers. You'll never need to search for a key. Your fingers know exactly where to touch-type using muscle-memory.
                     <br><br>
                     Give your fingers the control for your mind to be free.
                 <p>
@@ -77,7 +77,7 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
                 <p>
                     You already know how to use it! Typing on the CLS feels like typing on a standard keyboard.
                     <br><br>
-                    Just as you use 'Shift' to type 'A', you use a Layer to type '1'. All keys are mapped to feel similar to standard keyboards.
+                    Just as you use 'Shift' to type 'A', you use a Layer to type '1'. All keys are mapped to similar positions of the standard keyboard.
                 </p>
             </td>
             <td width="10%"></td>
@@ -211,7 +211,7 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
                 </p>
                 <br>
                 <p align="center">
-                    <img src="assets/open_source.jpg">
+                    <img src="assets/cls_case_v0.3.jpg">
                 </p>
             </td>
         </tr>
@@ -434,7 +434,7 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
         <br><br>
         The CLS is designed for touch-typing, where keys are found and typed using muscle-memory, not vision. When you no longer need vision to type, a lighting system becomes uneccessary.
         <br><br>
-        Furthermore, the CLS is designed to be robust. I believe that simple designs are a part of robust designs. A lighting system adds a new unecessary point for failure in the future.
+        Furthermore, the CLS is designed to be robust. I believe simpler designs are more robust designs. A lighting system adds a new unecessary point for failure in the future.
     </p>
 </details>
 
@@ -566,7 +566,7 @@ Over the past year, I've quietly worked on this personal project. After carefull
             <td>01 Apr 2026</td>
             <td>Kitsune PCB v1.0</td>
             <td>
-                <!-- <img src=assets/.jpg width=200> -->
+                <img src=assets/cls_kitsune_pcb_v1.0.jpg width=200>
             </td>
         </tr>
         <tr>
@@ -588,7 +588,7 @@ But as a 19-year-old graduating student, it has been my dream to earn a simple l
 If you're interested, or inspired by this project, please consider supporting me!
 
 > [!IMPORTANT]
-> * **[Fill out the Interest Check (Batch 0)](https://forms)**
+> * **[Fill out the Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)**
 >
 >   Let me know if you're interested to purchase a CLS! I hope to work with you and the community to make it possible.
 
