@@ -4,6 +4,11 @@ A keyboard system for typing with your thoughts.
 
 ![CLS Hybrid](assets/main.jpg)
 
+> [!TIP]
+> I plan to do an in-stock sale of CLS keyboards if there is enough demand. If you're interested, please join the **[Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)** and **[Discord Server](https://discord.gg/7n4hk5pMTZ)**
+>
+> They'll be cheaper than sourcing one yourself and it'll be a direct way to support me!
+
 ___
 
 ## Introduction
@@ -13,11 +18,6 @@ The CLS is a keyboard system that uses Layers to make what is thought, what is t
 With regular typing, keys can be mistyped, out of reach, or even need finding. But with Layers, the moment you think they are there, they will be there. The keys are brought right to your fingertips, ready to be typed!
 
 The CLS packs this (and more!) into a simple layout you already know how to use. It's carefully designed to feel as similar as possible to regular keyboards.
-
-> [!TIP]
-> I plan to do an in-stock sale of CLS keyboards if there is enough demand. If you're interested, please join the **[Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)** and **[Discord Server](https://discord.gg/7n4hk5pMTZ)**
->
-> They'll be cheaper than sourcing one yourself and it'll be a direct way to support me!
 
 ___
 
@@ -362,6 +362,8 @@ ___
 
 ## About
 
+![](assets/setup.jpg)
+
 The CLS is an open-source project developed with genuine care and passion to make typing easier, or just a little more fun, [for myself](https://github.com/christianlauex/cls-keyboard/wiki/Design-Story) and now anyone. This will not change.
 
 But as a 19-year-old graduating student, it has been my dream to earn a simple living by designing works for and with people. I do hope that the CLS can be a step closer to achieving my dream!
@@ -401,5 +403,3 @@ This work is licensed under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 For commercial enquiries, please contact christianlauex@gmail.com.
-
-![](assets/setup.jpg)
