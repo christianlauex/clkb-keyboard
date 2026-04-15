@@ -33,7 +33,7 @@ ___
 
 ## Features
 
-Full features on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
+Full features on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard/wiki)
 
 <!-- ### Ultra Compact Size -->
 
@@ -152,7 +152,7 @@ ___
 
 ## Gallery
 
-Full gallery on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
+Full gallery on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard/wiki)
 
 ### Default Layout
 
@@ -170,7 +170,7 @@ ___
 
 ## Details
 
-Full details on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
+Full details on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard/wiki)
 
 <!-- ### Overview -->
 
@@ -281,7 +281,7 @@ ___
 
 ## Documentation
 
-Full documentation on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
+Full documentation on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard/wiki)
 
 * ### [User Guide](https://github.com/christianlauex/cls-keyboard/wiki/User-Guide)
     * How to use the CLS Keyboard
