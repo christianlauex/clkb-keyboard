@@ -1,29 +1,39 @@
 # CLS (Compact Layer System) Keyboard
 
-### A keyboard system for typing with your thoughts.
+A keyboard system for typing with your thoughts.
 
 ![CLS Hybrid](assets/main.jpg)
 
+___
+
 ## Introduction
 
-The CLS is a keyboard system that uses Layers to make what is thought what is typed.
+The CLS is a keyboard system that uses Layers to make what is thought, what is typed.
 
-With regular typing, keys can be mistyped, out of reach, or even need finding. But with Layers, the moment you think they are there, they will be there. The keys are brought right to your fingertips, ready to be typed.
+With regular typing, keys can be mistyped, out of reach, or even need finding. But with Layers, the moment you think they are there, they will be there. The keys are brought right to your fingertips, ready to be typed!
 
-The CLS packs this into a compact layout you already know how to use!
+The CLS packs this (and more!) into a simple layout you already know how to use. It's carefully designed to feel as similar as possible to regular keyboards.
 
-> [!IMPORTANT]
-> The CLS is an open-source project, all files will be released after launch. But if you're interested to purchase one now, join the **[Initial Interest Check](#support)**!
+> [!TIP]
+> I plan to do an in-stock sale of CLS keyboards if there is enough demand. If you're interested, please join the **[Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)** and **[Discord Server](https://discord.gg/7n4hk5pMTZ)**
+>
+> They'll be cheaper than sourcing one yourself and it'll be a direct way to support me!
+
+___
 
 ## Concept
 
 ![](assets/learnt.gif)
 
-Even with Layers, every key is still where you expect them, positioned similarly to regular keyboards.
+Even with Layers, every key is still where you expect them. They are positioned similarly to regular keyboards.
 
 All commonly used keys (including `'"`) are physically available, while the rest are on virtual Layers. Hold the dedicated thumb keys to activate the Layers when you need to type them.
 
+___
+
 ## Features
+
+Full features on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
 
 <!-- ### Ultra Compact Size -->
 
@@ -112,7 +122,7 @@ All commonly used keys (including `'"`) are physically available, while the rest
         <h3>Universal Standard PCB</h3>
     </summary>
     <p>
-        <img src="assets/cls_kitsune_pcb_dimensions.png">
+        <img src="assets/cls_kitsune_pcb_v1.0.jpg">
     </p>
     <p>
         The Kitsune PCB is the universal platform of the CLS.
@@ -137,7 +147,30 @@ All commonly used keys (including `'"`) are physically available, while the rest
     </p>
 </details>
 
+
+___
+
+## Gallery
+
+Full gallery on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
+
+### Default Layout
+
+<img src="assets/gallery_4.jpg">
+<br><br>
+<img src="assets/gallery_3.jpg">
+<br><br>
+<img src="assets/gallery_6.jpg">
+
+### Alternative Layout
+
+<img src="assets/gallery_alt.jpg">
+
+___
+
 ## Details
+
+Full details on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
 
 <!-- ### Overview -->
 
@@ -240,77 +273,26 @@ All commonly used keys (including `'"`) are physically available, while the rest
     <p>
         All measurements are in millimeters (mm)
         <br><br>
-        <img src="assets/cls_kitsune_pcb_dimensions.png">
         <img src="assets/cls_keyboard_dimensions.png">
     </p>
 </details>
 
-<!-- ### User Manual -->
+___
 
-<details>
-    <summary>
-        <h3>User Guide</h3>
-    </summary>
-    <p>
-        TBD
-    </p>
-</details>
+## Documentation
 
-<!-- ### Build Guide -->
+Full documentation on the [CLS Keyboard Wiki](https://github.com/christianlauex/cls-keyboard)
 
-<details>
-    <summary>
-        <h3>Build Guide</h3>
-    </summary>
-    <p>
-        TBD
-    </p>
-</details>
+* ### [User Guide](https://github.com/christianlauex/cls-keyboard/wiki/User-Guide)
+    * How to use the CLS Keyboard
+* ### [Build Guide](https://github.com/christianlauex/cls-keyboard/wiki/Build-Guide)
+    * How to source and build the CLS keyboard
+* ### [Assembly Guide](https://github.com/christianlauex/cls-keyboard/wiki/Assembly-Guide)
+    * How to assemble the CLS Keyboard
+* ### [Design Guide](https://github.com/christianlauex/cls-keyboard/wiki/Design-Guide)
+    * How to design for and around the CLS keyboard
 
-<!-- ### Design Guide -->
-
-<details>
-    <summary>
-        <h3>Design Guide</h3>
-    </summary>
-    <p>
-        TBD
-    </p>
-</details>
-
-## Gallery
-
-<!-- ### CNC Machined -->
-
-<details open>
-    <summary>
-        <h3>CNC Machined</h3>
-    </summary>
-    <p>
-        TBD
-    </p>
-</details>
-
-<!-- ### 3D Printed -->
-
-<details open>
-    <summary>
-        <h3>3D Printed</h3>
-    </summary>
-    <p>
-        <img src="assets/main.jpg">
-        <img src="assets/gallery_2.jpg">
-        <img src="assets/gallery_3.jpg">
-        <img src="assets/gallery_4.jpg">
-        <img src="assets/gallery_5.jpg">
-        <img src="assets/gallery_6.jpg">
-        <br><br>
-        Alternative Layouts
-        <br><br>
-        <img src="assets/gallery_alt.jpg">
-        <img src="assets/cls_keyboard_v0.2.jpg">
-    </p>
-</details>
+___
 
 ## FAQ
 
@@ -327,9 +309,24 @@ All commonly used keys (including `'"`) are physically available, while the rest
         <br><br>
         However, I am developing a wireless version and intend to release one in the future.
         <br><br>
-        New designs take valuable time, money, and effort. But I'll continue, because I believe in this project.
+        New designs take valuable time, money, and effort. But I'll continue, because I believe in this project. If you do too, please consider <a href="#support">supporting me</a>. Every contribution, no matter how small, helps push this project forward!
+    </p>
+</details>
+
+<!-- ### Is it low-profile? -->
+
+<details>
+    <summary>
+        <h3>Is it low-profile?</h3>
+    </summary>
+    <p>
+        No.
         <br><br>
-        If you do too, please consider <a href="#support">supporting me</a>. Every contribution, no matter how small, helps push this project forward!
+        As of now, the CLS only supports normal profile switches.
+        <br><br>
+        However, I am also developing a low-profile version and intend to release one in the future.
+        <br><br>
+        New designs take valuable time, money, and effort. But I'll continue, because I believe in this project. If you do too, please consider <a href="#support">supporting me</a>. Every contribution, no matter how small, helps push this project forward!
     </p>
 </details>
 
@@ -350,7 +347,7 @@ All commonly used keys (including `'"`) are physically available, while the rest
 
 <details>
     <summary>
-        <h3>Does it have per-key RGB/ backlight?</h3>
+        <h3>Does it have (RGB) lighting?</h3>
     </summary>
     <p>
         No.
@@ -361,169 +358,31 @@ All commonly used keys (including `'"`) are physically available, while the rest
     </p>
 </details>
 
+___
+
 ## About
 
-When I learnt to [touch-type](https://www.uow.edu.au/student/support-services/academic-skills/online-resources/technology-and-software/typing/), typing became a seamless act of turning what I thought into what I typed.
-
-But it wasn't.
-
-Touch-typing made typing *Letters* seamless. But for typing Numbers and Symbols, or navigating with Arrows, it fell apart. This was because the regular keyboard pulled those keys away from my fingers. It forced my mind to stop, my eyes to search, and my hands to reach.
-
-So I set out to find a solution. The HHKB and JD40 keyboards caught my eye. I was drawn to their efficiency, but ultimately turned off by their complexity. Realising that this gap existed, I took it upon myself to develop my own. A keyboard to:
-
-1. **Type Perfectly**
-
-    Type all keys using simple touch-typing muscle-memory, so I'd never need to search again.
-
-2. **Type Instantly**
-
-    Type any key right from my fingertips, so I'd never need to reach again.
-
-3. **Type Familiarly**
-
-    Still feel familiar to type on, so I'd be able to use regular keyboards without much change.
-
-Over the past year, I've quietly worked on this personal project. After carefully designing, sourcing and assembling various prototypes, I am proud to say that the CLS is my solution, and more! And now I hope to share it with you!
-
-<table>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Name</th>
-            <th width=200>Preview</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>03 Feb 2025</td>
-            <td>CLS Layout</td>
-            <td>
-                <img src=assets/cls_layout.png width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>05 Mar 2025</td>
-            <td>Testpad</td>
-            <td>
-                <img src=assets/testpad.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>18 Mar 2025</td>
-            <td>Kitsune PCB v0.1</td>
-            <td>
-                <img src=assets/cls_kitsune_pcb_v0.1.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>18 Mar 2025</td>
-            <td>QMK VIA Firmware </td>
-            <td>
-                <img src=assets/qmk_via_firmware.png width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>13 Apr 2025</td>
-            <td>Memento Case</td>
-            <td>
-                <!-- <img src=assets/.jpg width=200> -->
-            </td>
-        </tr>
-        <tr>
-            <td>13 Apr 2025</td>
-            <td>CLS Prototype 1</td>
-            <td>
-                <img src=assets/cls_keyboard_v0.1.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>15 Jun 2025</td>
-            <td>CLS Multi-layout</td>
-            <td>
-                <img src=assets/cls_multilayout.png width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>22 Aug 2025</td>
-            <td>Kitsune PCB v0.2</td>
-            <td>
-                <img src=assets/cls_kitsune_pcb_v0.2.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>22 Aug 2025</td>
-            <td>Standard Case</td>
-            <td>
-                <!-- <img src=assets/.jpg width=200> -->
-            </td>
-        </tr>
-        <tr>
-            <td>22 Aug 2025</td>
-            <td>CLS Prototype 2</td>
-            <td>
-                <img src=assets/cls_keyboard_v0.2.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>11 Sep 2025</td>
-            <td>QMK VIAL Firmware </td>
-            <td>
-                <img src=assets/qmk_vial_firmware.png width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>14 Mar 2026</td>
-            <td>Slate Case</td>
-            <td>
-                <img src=assets/cls_case_v0.3.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>14 Mar 2026</td>
-            <td>CLS Prototype 3</td>
-            <td>
-                <!-- <img src=assets/.jpg width=200> -->
-            </td>
-        </tr>
-        <tr>
-            <td>01 Apr 2026</td>
-            <td>Kitsune PCB v1.0</td>
-            <td>
-                <img src=assets/cls_kitsune_pcb_v1.0.jpg width=200>
-            </td>
-        </tr>
-        <tr>
-            <td>TBD</td>
-            <td>CLS v1.0</td>
-            <td>
-                <!-- <img src=assets/.jpg width=200> -->
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-## Support
-
-The CLS is an open-source project developed with genuine care and passion to make typing easier, or just a little more fun, for myself and now anyone. This will not change.
+The CLS is an open-source project developed with genuine care and passion to make typing easier, or just a little more fun, [for myself](https://github.com/christianlauex/cls-keyboard/wiki/Design-Story) and now anyone. This will not change.
 
 But as a 19-year-old graduating student, it has been my dream to earn a simple living by designing works for and with people. I do hope that the CLS can be a step closer to achieving my dream!
 
-If you're interested, or inspired by the CLS, please consider supporting me!
+If you're interested in, or inspired by the CLS, please consider supporting me!
 
-> [!IMPORTANT]
-> * **[Fill out the Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)**
+> [!TIP]
+> * ### [Join the Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)
+>   * I plan to do an in-stock sale of CLS keyboards if there is enough demand. If you're interested, please let me know!
 >
->   Let me know if you're interested to purchase a CLS! I hope to work with you and the community to make it possible.
+>       They'll be cheaper than sourcing one yourself and it'll be a direct way to support me!
 
-* **[Join the Discord Server](https://discord.gg/7n4hk5pMTZ)**
+* ### [Join the Discord Server](https://discord.gg/7n4hk5pMTZ)
+    * Join the community to stay updated, share ideas or ask questions! Knowing people interested in this project is a huge encouragement to me.
 
-    Join the community to stay updated, share ideas or ask questions! Knowing people interested in this project is a huge encouragement to me.
+* ### [Buy me a coffee](https://buymeacoffee.com/christianlauex)
+    * If you're feeling particularly generous, you may also choose to make a donation. Every dollar will help me afford better tools and materials to release new designs!
 
-* **[Buy me a coffee](https://buymeacoffee.com/christianlauex)**
+___
 
-    If you're feeling particularly generous, you may also choose to make a donation. Every dollar will help me afford better tools and materials to release new designs!
-
-## Acknowledgements
+## Acknowledgement
 
 * **[Jack Humbert](https://github.com/jackhumbert) & The QMK Contributors**
     * For creating and keeping [QMK firmware](https://github.com/qmk/qmk_firmware) open-source, fully-featured, and documented, which powers the CLS.
@@ -533,6 +392,8 @@ If you're interested, or inspired by the CLS, please consider supporting me!
     * For creating [keyboard-layout-editor.com](https://github.com/ijprest/keyboard-layout-editor), which was the playground for my very first ideas.
 * **[Un Kyu Lee](https://github.com/unkyulee)**
     * For his writings in the [Micro Journal project](https://github.com/unkyulee/micro-journal), which inspired me to improve my documentation.
+
+___
 
 ## License
 
